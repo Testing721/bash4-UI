@@ -23,3 +23,9 @@ function xyz () {
 abc()
 
 console.log("heyyyyyyyyyyyyyyyyyyyy")
+let a = Number
+let b = Number
+
+a + b 
+
+console.log("Heyyyyyyyyyyyyyyyyyyyyyyyyyy");
