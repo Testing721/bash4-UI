@@ -17,8 +17,6 @@ console.log("Helooooooooooooo");
 
 
 
-console.log("hiiiiiiiiiiiiiiiiiiiiiiiiiiiiii");
-
 console.log("qwerty");
 
 console.log("hiiiiiiiiiiiiiiiiii");
