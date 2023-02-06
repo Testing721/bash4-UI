@@ -22,4 +22,4 @@ _Mussii_
   - XYZ
 
 - [ ] BAC
-- [ x ] XYZ
+- [x] XYZ
