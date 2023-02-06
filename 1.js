@@ -14,16 +14,19 @@ console.log("Helooooooooooooo");
 //     console.log("this is branch2");
 // }
  
-<<<<<<< HEAD
+
+
+
+
+
+
 
 
 
 console.log("qwerty");
 
 console.log("hiiiiiiiiiiiiiiiiii");
-=======
-let x = Number
-let y = Number
 
-a + b 
->>>>>>> parent of cfe0bf6 (revert6)
+console.log("qwerty");
+
+console.log("hiiiiiiiiiiiiiiiiii");
