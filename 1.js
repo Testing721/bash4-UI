@@ -18,3 +18,9 @@ let x = Number
 let y = Number
 
 a + b 
+
+function xyz () {
+    console.log("this is branch1");
+}
+
+abc()
