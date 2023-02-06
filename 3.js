@@ -14,5 +14,3 @@ console.log(111,555);
 console.log("hey");
 
 console.log("hi");
-
-console.log("hola");
