@@ -14,10 +14,7 @@ console.log("Helooooooooooooo");
 //     console.log("this is branch2");
 // }
  
-let x = Number
-let y = Number
 
-a + b 
 
 
 console.log("hiiiiiiiiiiiiiiiiiiiiiiiiiiiiii");
