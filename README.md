@@ -12,8 +12,8 @@ _Mussii_
 
 ###### Holaaaaa
 
-1- A
-2- B
+1. A
+2. B
 
 - C
 - D
