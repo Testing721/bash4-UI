@@ -24,3 +24,5 @@ function xyz () {
 }
 
 abc()
+
+console.log("heyyyyyyyyyyyyyyyyyyyy")
