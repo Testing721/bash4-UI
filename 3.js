@@ -9,3 +9,14 @@ console.log(789,965);
 
 
 console.log(111,555);
+
+
+function abc () {
+    console.log("this is branch1");
+}
+
+abc()
+
+function xyz () {
+    console.log("this is branch2");
+}
