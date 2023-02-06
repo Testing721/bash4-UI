@@ -21,5 +21,5 @@ _Mussii_
 1 ABC
   - XYZ
 
-[] BAC
-[x] XYZ
+- [ ] BAC
+- [ x ] XYZ
